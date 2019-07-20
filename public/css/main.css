@@ -1,0 +1,36 @@
+ul{
+    list-style-type:none;
+    list-style: none;
+}
+
+.login{
+    margin-left: 2%;
+    color: lightskyblue;
+    font-weight: bold;
+}
+
+.name{
+    margin-left: 2%;
+}
+
+.bio{
+    margin-left:2% !important;
+}
+
+.location{
+    /* margin-left: 2% !important; */
+    margin-left: 0% !important;
+    margin-top: 0.4%;
+}
+
+.font-small{
+    font-size: small;
+}
+
+.loc-map{
+    margin-left: 2%;
+}
+
+.cursor_pointer{
+    cursor: pointer;
+}
